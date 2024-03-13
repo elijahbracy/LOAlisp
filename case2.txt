@@ -1,0 +1,22 @@
+(
+   ; Board
+   (
+      ( x x x x x x x x )
+      ( w x x x x x x x )
+      ( b b b x x x x x )
+      ( b x w x x b x x )
+      ( w x x b b x x x )
+      ( x b w b x w w x )
+      ( x x x x x x x w )
+      ( x x x x x x x x )
+   )
+
+   ; Human:
+   0 0 
+
+   ; Computer
+   1 -2
+
+   ; Next player
+   Human White
+)
